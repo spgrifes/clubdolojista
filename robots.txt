@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://clubdolojista.com.br/sitemap.xml
